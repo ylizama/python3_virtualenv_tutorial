@@ -1,4 +1,4 @@
-# Python3 Virtualenv Setup
+# Python3 Virtualenv Setup for MAC
 Steps to set up virtual environments using python3
 
 ##### Requirements
